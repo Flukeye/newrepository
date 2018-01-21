@@ -45,7 +45,7 @@ namespace Фегуры
         {
             Squar Kvadr = new Squar(12,2,3,12);
             Console.WriteLine(Kvadr.Ploshad());
-            Console.ReadKey();//
+            Console.ReadKey();////
         }
     }
 }
