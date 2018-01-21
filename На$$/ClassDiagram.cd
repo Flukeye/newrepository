@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="На__.Car">
+    <Position X="1" Y="0.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAABEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="На__.Offroad">
+    <Position X="4.75" Y="1.75" Width="1.25" />
+    <InheritanceLine Type="На__.Car" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1" Y="2.312" />
+        <Point X="0.921" Y="2.312" />
+        <Point X="0.921" Y="4.721" />
+        <Point X="0.135" Y="4.721" />
+        <Point X="0.135" Y="0.51" />
+        <Point X="6.786" Y="0.51" />
+        <Point X="6.786" Y="4.962" />
+        <Point X="6.079" Y="4.962" />
+        <Point X="6.079" Y="2.307" />
+        <Point X="6" Y="2.307" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="На__.Program" Collapsed="true">
+    <Position X="2.75" Y="2.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

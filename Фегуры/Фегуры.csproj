@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1121EB49-4EAD-4567-9E2C-AFC905B6BFF5}</ProjectGuid>
+    <ProjectGuid>{3B000F50-ECB4-4C93-A322-7B1A589A8389}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>На__</RootNamespace>
-    <AssemblyName>На%24%24</AssemblyName>
+    <RootNamespace>Фегуры</RootNamespace>
+    <AssemblyName>Фегуры</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -47,7 +47,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
